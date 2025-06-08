@@ -1,6 +1,6 @@
 # ASCII Art Converter in JAVA
 This project implements an ASCII Art Converter in Java that transforms image files into ASCII character representations.
-It was developed as part of a programming course at The Hebrew University of Jerusalem.
+It was developed as part of OOP course at The Hebrew University of Jerusalem.
 
 # Project Structure
 - ascii_art package: Contains the core logic for user input, the main algorithm, and program flow.
